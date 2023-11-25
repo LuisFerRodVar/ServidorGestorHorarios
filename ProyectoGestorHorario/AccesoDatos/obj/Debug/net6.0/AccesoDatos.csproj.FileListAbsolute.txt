@@ -1,0 +1,14 @@
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\bin\Debug\net6.0\AccesoDatos.runtimeconfig.json
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\bin\Debug\net6.0\AccesoDatos.dll
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\bin\Debug\net6.0\AccesoDatos.pdb
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.dll
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.pdb
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\luisf\source\repos\ProyectoGestorHorario\AccesoDatos\obj\Debug\net6.0\ref\AccesoDatos.dll
